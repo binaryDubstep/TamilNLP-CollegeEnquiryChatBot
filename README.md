@@ -7,4 +7,4 @@ The corpus of this Chatbot is intially trained with rich text conversations and 
 
 A machine learning algorithm runs in the backend, which trains the chatbot. This algorithm can also be used to train the model with different ideas, with different use-cases.
 
-A machine learning algorithm runs in the backend, which trains the chatbot. This algorithm can also be used to train the model with different ideas, with different use-cases.
+
